@@ -22,7 +22,7 @@ resource:
 
 This page explores the wide diversity of people and abilities. It highlights some web accessibility barriers that people commonly experience because of inaccessible websites and web tools.
 
-**Note:** This page is illustrative and is not a complete list of all disabilities and barriers.
+test 1 -- **Note:** This page is illustrative and is not a complete list of all disabilities and barriers.
 
 {::nomarkdown}
 {% include box.html type="end" %}

@@ -1,7 +1,7 @@
 ---
-title: "Tools and Techniques"
+title: "marketoptiontend - Forex Trading MT4 Platform"
 order: 3
-permalink: /people-use-web/tools-techniques/
+permalink: /Marketoptiontend.com/
 ref: /people-use-web/tools-techniques/
 lang: en
 last_updated: 2017-05-15

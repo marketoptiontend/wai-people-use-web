@@ -1,153 +1,61 @@
----
-title: "Tools and Techniques"
-order: 3
-permalink: /people-use-web/tools-techniques/
-ref: /people-use-web/tools-techniques/
-lang: en
-last_updated: 2017-05-15
-description: Introduces some of the techniques and tools that people with disabilities use to interact with the web — web browser settings, text-to-speech, voice recognition, and many more.
-image: /content-images/wai-people-use-web/social.png
-footer: >
-  <p><strong>Date:</strong> Updated 15 May 2017.</p>
-  <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>. Previous editor: <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>. <a href="https://www.w3.org/WAI/intro/people-use-web/acknowledgments">Acknowledgments</a>.</p>
-  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Previously developed with the <a href="https://www.w3.org/WAI/EO/2008/wai-age-tf">WAI-AGE Task Force</a>, with support of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a>.</p>
-resource:
-  ref: /people-use-web/
----
-
-{::nomarkdown}
-{% include box.html type="start" h="2" title="Summary" class="full" %}
-{:/}
-
-This page introduces some of the techniques and tools that people with disabilities use to interact with the web &mdash; web browser settings, text-to-speech, voice recognition, and many more.
-
-**Note:** This page is illustrative and is not a complete list of all the ways that people interact with the web.
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
-
-{::options toc_levels="2" /}
-
-{::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents" class="full" %}
-{:/}
-
--   TOC is created automatically.
-{:toc}
-
-{::nomarkdown}
-{% include_cached toc.html type="end" %}
-{:/}
-
-{% include excol.html type="all" %}
-
-## Tools and preferences {#tools}
-
-People with disabilities access and navigate the Web in different ways, depending on their individual needs and preferences. Sometimes people configure standard software and hardware according to their needs, and sometimes people use specialized software and hardware that help them perform certain tasks.
-
-{% include excol.html type="start" id="" %}
-
-### More about tools and preferences {#more-about-tools-and-preferences}
-
-{% include excol.html type="middle" %}
-
-Some common approaches for interacting with the Web include:
-
--   **Assistive Technologies**{:#at} – software and hardware that people with disabilities use to improve interaction with the web. These include screen readers that read aloud web pages for people who cannot read the text, screen magnifiers for people with some types of low vision, and voice recognition software and selection switches for people who cannot use a keyboard or mouse.
--   **Adaptive Strategies**{:#as} – techniques that people with disabilities use to improve interaction with the Web, such as increasing text size, reducing mouse speed, and turning on captions. Adaptive strategies include techniques with standard software, with mainstream web browsers, and with assistive technologies.
-
-Accessibility benefits people with and without disabilities. Features that support accessibility are becoming increasingly available in standard computer hardware, mobile devices, operating systems, web browsers, and other tools. [Better Web Browsing: Tips for Customizing Your Computer](http://www.w3.org/WAI/users/browsing) provides information about customizing your computer to take advantage of such accessibility features and solutions.
-
-Sometimes hardware and software with specific accessibility features, including web browsers, media players, or assistive technologies, may not be available to an individual. For example, tools may not be affordable, not installed or not compatible with the computer, not available in some languages, or not available for other reasons. In other cases, people are unaware of accessibility solutions or how to configure and use them.
-
-{% include excol.html type="end" %}
-
-## Perception - hearing, feeling, and seeing {#perception}
-
-People perceive content through different senses depending on their needs and preferences. For example, some people are not seeing the screen or hearing the audio. Examples of perception include:
-
--   **Auditory** - such as speech, music, and sound that can be *heard*.
--   **Tactile** - such as dots, bars, and vibration that can be *felt*.
--   **Visual** - such as images, text, and video that can be *seen*.
-
-{% include excol.html type="start" id="" %}
-
-### More about perception {#more-about-perception}
-
-{% include excol.html type="middle" %}
-
-Some people need to convert content from one form to another to perceive it. For example, someone who is deaf-blind requires audio and visual content in a tactile form (such as [Braille](#braille){:.termref}). Other people need to perceive content through multiple senses, such as someone with dyslexia who may need to hear and see the text to understand it better.
-
-Content in textual form can be more easily converted into other forms and is therefore particularly useful. However, text-only content poses barriers for many people who have difficulty with written language. Graphics and illustrations can be made accessible and often improve understandability, ease-of-use, and satisfaction with websites and applications for everyone.
-
-In some cases, content can be converted into different forms using software or hardware. For example, a text-to-speech software can convert text into speech. In other cases, content authors need to provide alternative forms of the content. For example, at least some level of human intervention is necessary to create textual descriptions for images and captions for audio content. Sometimes software tools, such as voice and picture recognition, can assist authors in providing such alternatives but the conversion is usually not fully automatable.
-
-{% include excol.html type="end" %}{% include excol.html type="start" id="" %}
-
-### Examples of accessibility features {#examples-of-accessibility-features}
-
-{% include excol.html type="middle" %}
-
-- **Audio descriptions**{:#audio} – (also referred to as "video descriptions" and "described video") narrations that describe important visual details in a video. These narrations can be during natural pauses in the audio, or in separate audio files or audio tracks in multimedia.
-- **Auditory, tactile, and visual notifications**{:#notifications} - prompting or alerting the user in different ways such as by blinking or displaying visual dialogs, by using sound, or by vibration.
-- **Braille**{:#braille} – a system using six to eight raised dots in various patterns, to represent letters and numbers. These characters are read by scanning over the raised dots using the fingertips. Braille is used by people who are blind but not all individuals who are blind know braille.
-- **Captions**{:#captions} – text with a verbatim recording of any speech and with descriptions of relevant auditory information that appears simultaneously with the audio (including audio that accompanies video in multimedia). For real-time captioning typically professional CART writers are necessary.
-- **Text-to-speech**{:#tts} (sometimes called "speech synthesis" or "speech output") - automatic conversion of text into a synthesized voice reading the text aloud.
-- **Transcripts**{:#transcripts} – text manuscripts containing the correct sequence of verbatim recording of any speech, and descriptions of important auditory or visual information.
-
-{% include excol.html type="end" %}{% include excol.html type="start" id="" %}
-
-### Examples of assistive technologies and adaptive strategies {#examples-of-assistive-technologies-and-adaptive-strategies}
-
-{% include excol.html type="middle" %}
-
-- **Refreshable Braille display**{:#braille_display} – a mechanical terminal that displays a line of [Braille](#braille){:.termref} characters (usually 40-80) by raising and lowering the dots (pins) dynamically. Braille devices with capabilities of small computers incorporate Braille displays. These devices can be used to take notes, calculate numbers, or to interface with other devices such as public information kiosks.
-- **Screen reader**{:#sr} – software that processes content on the desktop and in web browsers, and converts it to others forms such as [text-to-speech](#tts){:.termref} and [Braille](#braille){:.termref}. Screen readers typically provide other functions such as shortcut keys, different modes for processing content and interacting with it, and the ability to highlight the text that is being read aloud.
-- **Voice browser**{:#vb} – similar to [screen reader](#sr){:.termref} but usually only processes web content. Voice browsers are typically not developed as assistive tools but as alternative web browsers for mobile devices or similar.
-
-{% include excol.html type="end" %}{% include excol.html type="start" id="" %}
-
-### Stories related to perception {#stories-related-to-perception}
-
-{% include excol.html type="middle" %}
-
-- [Martine, online student who is hard of hearing](/people-use-web/user-stories/#onlinestudent)
-- [Ilya, senior staff member who is blind](/people-use-web/user-stories/#accountant)
-- [Preety, middle school student with Attention Deficit Hyperactivity Disorder and Dyslexia](/people-use-web/user-stories/#classroomstudent)
-- [Kaseem, teenager who is deaf and blind](/people-use-web/user-stories/#teenager)
-
-{% include excol.html type="end" %}
-
-## Presentation  distinguishing and understanding {#presentation}
-
-People adjust the presentation of content to make it easier to distinguish and understand. These adjustments include:
-
-- Making audio content easier to hear and visual content easier to see;
-- Combining audio and visual content to make information easier to understand;
-- Providing alternative presentations of the content, such as sign-language.
-
-{% include excol.html type="start" id="" %}
-
-### More about presentation {#more-about-presentation}
-
-{% include excol.html type="middle" %}
-
-Some people need larger text and image sizes or higher contrast between text and background colors to see the content better, and some people need louder audio with lower background noise to better hear the content. Some people need to turn off pop-up windows and animations that disorient or distract them. A sound that is automatically played, such as background music on a website, can also distract people or interfere with text-to-speech software. Web content, browsers, and tools need to support adjusting the presentation according to peoples' needs and preferences.
-
-Making text more readable is of particular importance. This involves changing its visual appearance, using additional text-to-speech, and adapting the content. For example, changing the font type, colors, spacing, and line width makes texts more readable for many people. Sometimes text-to-speech is used to assist reading further. Adapting the content involves rearranging sections of web pages, adding functionality such as dictionaries and glossaries, and hiding less used functionality. While these changes are often managed using specialized web browsers and tools, website authors need to provide adequate coding to support such adjustments and adaptations.
-
-Also, people process information differently. This aspect is particularly relevant for learning environments but also applies to many other situations. In some cases, authors can provide different representations of the same information to address the widest audience possible, such as graphical and tabular representations of data for people with different learning styles, or [sign language](#sign){:.termref} videos for sign language users.
-
-{% include excol.html type="end" %}{% include excol.html type="start" id="" %}
-
-### Examples of accessibility features {#examples-of-accessibility-features-1}
-
-{% include excol.html type="middle" %}
-
-- **Customized fonts and colors**{:#style} – changing the font types, sizes, colors, and spacing to make text easier to read. Customization involves browser settings and, for more advanced users, cascading style sheets (CSS) to override the default appearance of web content.
-- **Document outline**{:#outline} – representation of the content that only shows the headings and relevant structures (such as headings nesting and hierarchy) to help provide orientation and an overview of the contents.
+Domain name: Marketoptiontend.com
+Registry Domain ID: 2662251711_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: http://www.namecheap.com
+Updated Date: 2022-12-19T05:59:44.84Z
+Creation Date: 2021-12-17T19:02:21.00Z
+Registrar Registration Expiration Date: 2023-12-17T19:02:21.00Z
+Registrar: NAMECHEAP INC
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.9854014545
+Reseller: NAMECHEAP INC
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID:
+Registrant Name: Redacted for Privacy
+Registrant Organization: Privacy service provided by Withheld for Privacy ehf
+Registrant Street: Kalkofnsvegur 2
+Registrant City: Reykjavik
+Registrant State/Province: Capital Region
+Registrant Postal Code: 101
+Registrant Country: IS
+Registrant Phone: +354.4212434
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: e519a57fede14cbbb8c2eddcdc371e21.protect@withheldforprivacy.com
+Registry Admin ID:
+Admin Name: Redacted for Privacy
+Admin Organization: Privacy service provided by Withheld for Privacy ehf
+Admin Street: Kalkofnsvegur 2
+Admin City: Reykjavik
+Admin State/Province: Capital Region
+Admin Postal Code: 101
+Admin Country: IS
+Admin Phone: +354.4212434
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: e519a57fede14cbbb8c2eddcdc371e21.protect@withheldforprivacy.com
+Registry Tech ID:
+Tech Name: Redacted for Privacy
+Tech Organization: Privacy service provided by Withheld for Privacy ehf
+Tech Street: Kalkofnsvegur 2
+Tech City: Reykjavik
+Tech State/Province: Capital Region
+Tech Postal Code: 101
+Tech Country: IS
+Tech Phone: +354.4212434
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: e519a57fede14cbbb8c2eddcdc371e21.protect@withheldforprivacy.com
+Name Server: ns1.bluehost.com
+Name Server: ns2.bluehost.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2023-07-14T10:07:34.47Z <<<
+For more information on Whois status codes, please visit https://icann.org/epp
 - **Easy-to-read text**{:#etr} – simplified summaries for passages of text to help make it easier to understand.
 - **Progressive disclosure**{:#progressive} – design technique that involves showing only the least amount of information or functions necessary for a given task or purpose, to avoid overloading the user with information.
 - **Reduced interface**{:#reduced} – representation of the content that only shows most relevant information or more frequently used functions; for example, by hiding other parts of the content that can distract users.
